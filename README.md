@@ -1,5 +1,4 @@
-# Resume
-Career accomplishments, speaking engagements, etc. 
+# Career accomplishments, speaking engagements, etc. 
 
 Event | Description
 ------|------------
@@ -8,3 +7,10 @@ Circle City Con 2018 | [The Never Ending Hack: Mental Health in the Hacker Commu
 BSides Cincinnati 2018 | [Keynote Address: Findind Ways For Evil To Do Evil Things](https://youtu.be/rY9TEr6dexU)
 BSides Philly 2017 | [Hunting: Defense Against The Dark Arts](https://youtu.be/BjSi67D0Yec)
 Lehigh Valley Tech Meetup 2017 | [An Introduction to Cyber Security](https://youtu.be/prObp08bfws)
+
+# Current Projects
+
+[Co-Host of The Rally Security Podcast](https://youtu.be/prObp08bfws)
+[Founder: DEF CON 610](www.meetup.com/defcon610)
+[Blog: PCWF.CO](www.pcwf.co)
+[InfoSanity.Org: A mental health iniative in for the hacker community.](www.infosanity.org)
