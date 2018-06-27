@@ -10,7 +10,7 @@ Lehigh Valley Tech Meetup 2017 | [An Introduction to Cyber Security](https://you
 
 # Current Projects
 
-[Co-Host of The Rally Security Podcast](https://youtu.be/prObp08bfws)
-[Founder: DEF CON 610](www.meetup.com/defcon610)
-[Blog: PCWF.CO](www.pcwf.co)
-[InfoSanity.Org: A mental health iniative in for the hacker community.](www.infosanity.org)
+* [Co-Host of The Rally Security Podcast](https://youtu.be/prObp08bfws)
+* [Founder: DEF CON 610](www.meetup.com/defcon610)
+* [Blog: PCWF.CO](www.pcwf.co)
+* [InfoSanity.Org: A mental health iniative in for the hacker community.](www.infosanity.org)
