@@ -17,4 +17,4 @@ Instructional Video | [Creating Rules in the FireEye Threat Analytics Platform](
 * [DEF CON 610](www.meetup.com/defcon610)
 * [Blog: PCWF.CO](www.pcwf.co)
 * [InfoSanity.Org: A mental health initiative in the hacker community.](www.infosanity.org)
-* Contributer: [AWS Detonation lab](https://github.com/sonofagl1tch/AWSDetonationLab) 
+* [Contributer: AWS Detonation lab](https://github.com/sonofagl1tch/AWSDetonationLab) 
