@@ -1,3 +1,7 @@
+# Contact Info
+
+Danny (dot) Akacki at Gmail (dot) com
+
 # Career accomplishments, speaking engagements, etc. 
 
 Event | Description
