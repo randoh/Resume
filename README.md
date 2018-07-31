@@ -20,6 +20,7 @@ Instructional Video | [Creating Rules in the FireEye Threat Analytics Platform](
 * [Co-Host of The Rally Security Podcast](https://youtu.be/prObp08bfws)
 * [DEF CON 610](www.meetup.com/defcon610)
 * [Blog: PCWF.CO](www.pcwf.co)
+* [Blog: Medium.com](https://medium.com/@dakacki)
 * [InfoSanity.Org: A mental health initiative in the hacker community.](www.infosanity.org)
 * [Contributor: QA & Testing: AWS Detonation lab](https://github.com/sonofagl1tch/AWSDetonationLab)
 
