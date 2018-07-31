@@ -41,11 +41,10 @@ I’ve been doing Threat Hunting for my entire security career. Studying threat 
 
 ## Technical Product Manager	Amazon Web Services	Remote		01/2018 – Present
 
-*	After the acquisition of Sqrrl by AWS, became a member of the project management team to port our product into the AWS suite
-*	Worked with our UX department to figure out how the interface should function for analyst
+*	After the acquisition of Sqrrl by AWS, became a member of the project management team to port the Sqrrl product into the AWS suite
+*	Worked with UX to determine an ideal layout from an analyst perspective
 *	Created “user stories”, actions an analyst/user could take in the event of different threat scenarios/alerts.
-*	Curated data from various AWS services, mapping fields and data points to the existing Sqrrl model
-*	Defined possible analytics around those threat scenarios such as Geo Infeasibility and Data Exfiltration
+*	Defined possible analytics around threat scenarios such as Geo Infeasibility and Data Exfiltration
 
 ## Security Evangelist 		Sqrrl			Remote		11/2017 – 01/2018	
 
